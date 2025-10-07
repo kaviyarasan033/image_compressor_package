@@ -4,7 +4,7 @@ const { compressToTarget } = require("./lib/compressor");
 
 /**
 
- * 
+ * test
  * @param {string} inputPath - Path to input image file (jpg/png/webp)
  * @param {string} outputPath - Path where compressed image will be saved
  * @param {string|number} targetSize - e.g. "300kb", "1mb", or bytes number
