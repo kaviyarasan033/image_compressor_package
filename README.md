@@ -1,3 +1,10 @@
+
+@kaviyarasan022/image-compressor-target
+
+A lightweight and easy-to-use image compressor for your projects.
+
+**npm install @kaviyarasan022/image-compressor-target**
+
 Features
 
 Compress images easily in Node.js projects
@@ -41,3 +48,9 @@ These dependencies are automatically installed with the package.
 
 git clone <your-repo-url>
 cd image-compressor-target
+
+
+
+License
+
+MIT License © 2025 Kaviyarasan M
